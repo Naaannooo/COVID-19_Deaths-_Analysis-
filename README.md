@@ -1,4 +1,4 @@
-# PorfolioProjects
+# Porfolio Projects
 # COVID-19 Data Analysis Using SQL
 
 ## Project Overview
