@@ -50,9 +50,3 @@ The following analyses were completed:
 * SQL Views
 * Window Functions
 * Data type conversion
-
-
-## Project Purpose
-
-This project demonstrates my ability to use SQL for data analysis and transform raw datasets into meaningful insights.
-
