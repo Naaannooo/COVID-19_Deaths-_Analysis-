@@ -1,4 +1,4 @@
-# Porfolio Projects
+
 # COVID-19 Data Analysis Using SQL
 
 ## Project Overview
@@ -51,24 +51,8 @@ The following analyses were completed:
 * Window Functions
 * Data type conversion
 
-## Example Analysis
-
-Calculated the percentage of population vaccinated using a rolling count:
-
-```sql
-SUM(new_vaccinations) OVER (
-PARTITION BY location 
-ORDER BY date
-)
-```
 
 ## Project Purpose
 
 This project demonstrates my ability to use SQL for data analysis and transform raw datasets into meaningful insights.
 
-## Future Improvements
-
-* Create visual dashboards using Power BI
-* Perform additional data cleaning
-* Add more advanced SQL analysis
-* Explore trends using Python
