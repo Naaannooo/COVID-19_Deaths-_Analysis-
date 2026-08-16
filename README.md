@@ -6,9 +6,7 @@ This project analyzes global COVID-19 data using **Tableau** to identify trends 
 
 The goal of this project was to transform raw COVID-19 data into an interactive and easy-to-understand dashboard.
 
-## Dashboard
 
-![COVID-19 Tableau Dashboard](dashboard.png)
 
 ## Key Metrics
 
@@ -54,7 +52,5 @@ This project demonstrates how raw COVID-19 data can be transformed into meaningf
 * `COVID-19-Analysis.twbx` — Tableau workbook
 * `dashboard.png` — Screenshot of the final dashboard
 
-## Tableau Public
 
-![COVID-19 Tableau Dashboard](dashboard.png)
 
