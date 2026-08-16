@@ -1,52 +1,60 @@
-
-# COVID-19 Data Analysis Using SQL
+# COVID-19 Data Analysis — Tableau
 
 ## Project Overview
 
-This project analyzes COVID-19 deaths and vaccination data using SQL.
-The goal of this project is to explore global COVID-19 trends, including cases, deaths, death percentages, and vaccination progress.
+This project analyzes global COVID-19 data using **Tableau** to identify trends in cases, deaths, and the impact of COVID-19 across different countries and over time.
 
-This project was created as a beginner data analysis project to practice SQL skills such as data exploration, aggregation, joins, window functions, temporary tables, and views.
+The goal of this project was to transform raw COVID-19 data into an interactive and easy-to-understand dashboard.
 
-## Tools Used
+## Dashboard
 
-* SQL Server
-* DBeaver (SQL Client)
-* Microsoft Excel (Data Source)
+![COVID-19 Tableau Dashboard](dashboard.png)
 
-## Dataset
+## Key Metrics
 
-The dataset contains COVID-19 information including:
+* **Total Cases** — Total reported COVID-19 cases.
+* **Total Deaths** — Total reported COVID-19 deaths.
+* **Death Percentage** — Percentage of reported cases that resulted in death.
 
-* Countries and continents
-* Population data
-* Total COVID-19 cases
-* Total COVID-19 deaths
-* New cases
-* Vaccination data
-* New vaccinations
+## Visualizations
 
-## Analysis Performed
+The dashboard includes:
 
-The following analyses were completed:
+1. **COVID-19 Trends Over Time**
+   A line chart showing how COVID-19 metrics changed over time.
 
-* Total cases and total deaths by location
-* Death percentage calculation
-* Countries with the highest COVID-19 cases and deaths
-* COVID-19 trends over time
-* Vaccination progress by country
-* Percentage of population vaccinated
-* Rolling vaccination counts using SQL window functions
+2. **Country Comparison**
+   A bar chart comparing COVID-19 statistics across countries.
 
-## SQL Skills Demonstrated
+3. **Global COVID-19 Map**
+   A geographic visualization showing the distribution of COVID-19 data across countries.
 
-* SELECT statements
-* Filtering with WHERE
-* GROUP BY and aggregate functions
-* ORDER BY
-* JOIN operations
-* Common Table Expressions (CTEs)
-* Temporary Tables
-* SQL Views
-* Window Functions
-* Data type conversion
+## Tools & Technologies
+
+* **Tableau Public** — Data visualization and dashboard development
+* **Excel** — Data source and data preparation
+* **SQL** — Data querying and preparation
+
+## Skills Demonstrated
+
+* Data visualization
+* Data cleaning and preparation
+* Data aggregation
+* Geographic analysis
+* Dashboard design
+* Trend analysis
+* Data storytelling
+
+## Key Takeaway
+
+This project demonstrates how raw COVID-19 data can be transformed into meaningful visualizations that make it easier to understand global trends and compare the impact of COVID-19 across different countries.
+
+## Project Files
+
+* `COVID-19-Analysis.twbx` — Tableau workbook
+* `dashboard.png` — Screenshot of the final dashboard
+
+## Tableau Public
+
+![COVID-19 Tableau Dashboard](dashboard.png)
+
